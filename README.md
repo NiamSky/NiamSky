@@ -204,53 +204,6 @@ const NiamSky = {
 
 <br/>
 
-## 💼 Current Focus
-
-<div align="center">
-  
-```diff
-+ 🔭 Currently working on Full Stack Web Applications
-+ 🌱 Learning advanced TypeScript patterns and microservices architecture
-+ 👯 Looking to collaborate on open source projects
-+ 💬 Ask me about PHP, Laravel, JavaScript, TypeScript, or anything web development
-+ ⚡ Fun fact: There are 10 types of people in this world - those who understand binary and those who don't
-```
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🎯 Visitor Count
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/NiamSky/count.svg" alt="Visitor Count"/>
-  <br/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=NiamSky&label=Profile%20Views&color=ff0000&style=for-the-badge" alt="Profile Views"/>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&bg_color=000000&quote_color=FF0000&author_color=FFFFFF" alt="Random Dev Quote"/>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
 <div align="center">
   
 ### 🤝 Let's Connect and Build Something Amazing Together!
