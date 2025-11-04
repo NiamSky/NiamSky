@@ -80,7 +80,7 @@ const NiamSky = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Tech Stack
 
-### 🎨 Frontend Development
+### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25px" height="25px"> Frontend Development
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF0000" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF0000" alt="CSS3"/>
@@ -96,7 +96,7 @@ const NiamSky = {
   <img src="https://img.shields.io/badge/Material--UI-000000?style=for-the-badge&logo=mui&logoColor=FF0000" alt="Material-UI"/>
 </p>
 
-### ⚙️ Backend Development
+### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25px" height="25px"> Backend Development
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FF0000" alt="PHP"/>
   <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF0000" alt="Laravel"/>
@@ -109,7 +109,7 @@ const NiamSky = {
   <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=FF0000" alt="GraphQL"/>
 </p>
 
-### 🗄️ Database & Caching
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25px" height="25px"> Database & Caching
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF0000" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF0000" alt="PostgreSQL"/>
@@ -118,7 +118,7 @@ const NiamSky = {
   <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=FF0000" alt="SQLite"/>
 </p>
 
-### 🛠️ DevOps & Tools
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="25px" height="25px"> DevOps & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0000" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF0000" alt="Docker"/>
@@ -132,7 +132,7 @@ const NiamSky = {
   <img src="https://img.shields.io/badge/Yarn-000000?style=for-the-badge&logo=yarn&logoColor=FF0000" alt="Yarn"/>
 </p>
 
-### 🔥 Other Technologies
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25px" height="25px"> Other Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FF0000" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=FF0000" alt="Socket.io"/>
@@ -141,7 +141,7 @@ const NiamSky = {
   <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FF0000" alt="Vite"/>
 </p>
 
-### 🎬 Creative Tools
+### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="25px" height="25px"> Creative Tools
 <p align="left">
   <img src="https://img.shields.io/badge/After_Effects-000000?style=for-the-badge&logo=adobe-after-effects&logoColor=FF0000" alt="After Effects"/>
   <img src="https://img.shields.io/badge/Premiere_Pro-000000?style=for-the-badge&logo=adobe-premiere-pro&logoColor=FF0000" alt="Premiere Pro"/>
@@ -153,7 +153,7 @@ const NiamSky = {
 
 <br/>
 
-## 📊 GitHub Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NiamSky&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
