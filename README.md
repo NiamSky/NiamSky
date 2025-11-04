@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=NiamSky&fontSize=70&color=0:000000,100:FF0000&fontColor=FF0000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF0000,100:000000&section=header&text=NiamSky&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=25" />
 </div>
 
 <h1 align="center">
