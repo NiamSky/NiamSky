@@ -1,13 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=NiamSky&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ff0000&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=NiamSky&fontSize=70&color=0:000000,100:FF0000&fontColor=FF0000" />
 </div>
 
-<div align="center">
-  
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;PHP+%7C+JavaScript+%7C+TypeScript;Building+Amazing+Web+Experiences+%E2%9C%A8;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
-  
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=70&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Crafting+Digital+Experiences+%E2%9C%A8;PHP+%7C+JavaScript+%7C+TypeScript+%F0%9F%9A%80;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FF0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Status-Available%20For%20Work-FF0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Lives-Indonesia-FF0000?style=for-the-badge&labelColor=000000" />
+</p>
 
 <br/>
 
@@ -23,13 +26,13 @@
   <a href="https://twitter.com/niamsky" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=FF0000" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/niamsky" target="_blank">
+  <a href="https://instagram.com/niamsky_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF0000" alt="Instagram"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:muhammadjanubaniam@gmail.com target="_blank">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email"/>
   </a>
-  <a href="https://discord.com/users/youruserid" target="_blank">
+  <a href="https://discord.com/users/niamsky" target="_blank">
     <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF0000" alt="Discord"/>
   </a>
   
@@ -206,14 +209,20 @@ const NiamSky = {
 
 <div align="center">
   
-### 🤝 Let's Connect and Build Something Amazing Together!
+  <h2 style="color: #FF0000;">🤝 Let's Connect and Build Something Amazing Together! 🚀</h2>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%"/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Always%20Coding-FF0000?style=for-the-badge&logo=code&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Always%20Learning-FF0000?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Coffee%20Driven-FF0000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=000000" />
+  </p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:FF0000&section=footer&reversal=false" />
 
 </div>
 
 ---
 
 <div align="center">
-  <b>⭐ From <a href="https://github.com/NiamSky">NiamSky</a> with ❤️</b>
+  <b>⭐️ From <a href="https://github.com/NiamSky">NiamSky</a> with ❤️ | © 2025 All Rights Reserved</b>
 </div>
