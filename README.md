@@ -196,7 +196,7 @@ const NiamSky = {
   <img src="https://raw.githubusercontent.com/NiamSky/NiamSky/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> **Note:** The snake game above shows my GitHub contributions being eaten! To enable this animation:
+> **Note:** The snake game above shows my GitHub contributions being eaten!
 
 <br/>
 
