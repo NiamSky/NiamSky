@@ -178,7 +178,7 @@ const NiamSky = {
 
 <br/>
 
-## � Activity Graph
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px" height="35px"> Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiamSky&theme=tokyo-night&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
@@ -190,7 +190,7 @@ const NiamSky = {
 
 <br/>
 
-## �🐍 Contribution Snake
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px" height="35px"> Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/NiamSky/NiamSky/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
