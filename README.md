@@ -197,9 +197,6 @@ const NiamSky = {
 </div>
 
 > **Note:** The snake game above shows my GitHub contributions being eaten! To enable this animation:
-> 1. Go to the Actions tab of this repository
-> 2. Enable GitHub Actions if not already enabled
-> 3. The snake will be automatically generated
 
 <br/>
 
