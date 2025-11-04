@@ -175,7 +175,19 @@ const NiamSky = {
 
 <br/>
 
-## 🐍 Contribution Snake
+## � Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiamSky&theme=tokyo-night&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## �🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/NiamSky/NiamSky/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -185,18 +197,6 @@ const NiamSky = {
 > 1. Go to the Actions tab of this repository
 > 2. Enable GitHub Actions if not already enabled
 > 3. The snake will be automatically generated
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiamSky&theme=tokyo-night&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
 
 <br/>
 
